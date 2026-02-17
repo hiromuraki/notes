@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69e24efda64f7c69",
+        "id": "4c460a9401fca690",
         "type": "tabs",
         "children": [
           {
-            "id": "716a90d6d15ed56a",
+            "id": "222b20b8fb2168d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -177,23 +177,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "716a90d6d15ed56a",
+  "active": "222b20b8fb2168d9",
   "lastOpenFiles": [
+    "keys/环境变量.md",
+    "keys/文件权限.md",
     "2026/02/2026-02-18.md",
+    "[文件权限.md",
     "2026/02/2026-02-17.md",
     "PowerShell 1.md",
-    "NPM（包管理器）.md",
-    "Docker.md",
-    "BuildKit.md",
-    "k8s.md",
-    "[文件权限.md",
-    "GitHub Action.md",
-    "Podman.md",
+    "keys/NPM（包管理器）.md",
+    "keys/Docker.md",
+    "keys/BuildKit.md",
+    "keys/k8s.md",
+    "keys/GitHub Action.md",
+    "keys/Podman.md",
     "netsh 1.md",
-    "环境变量.md",
-    "Gitea.md",
-    "Docker Compose.md",
-    "CUDA.md",
+    "keys/Gitea.md",
+    "keys/Docker Compose.md",
+    "keys/CUDA.md",
     "2026-02-17.md",
     "未命名.md",
     "keys/WSL.md",
@@ -204,7 +205,6 @@
     "keys/sudo.md",
     "keys/PowerShell.md",
     "keys/SELinux.md",
-    "keys/Nginx Proxy Manager.md",
     "2026-02-17",
     "keys",
     "2026/02",
